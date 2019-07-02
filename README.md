@@ -31,7 +31,7 @@
 11. This property also applies to complex numbers, some of them when squaured, increase in **magnitude** and eventually tend to infinity. Since we cannot keep squaring a number indefinitely, we have to decide on the number of times we want to square the complex number to check if it is a part of the mandelbrot set (ive used 100 in my program) Increasing this number increases the detail of the image as more and more numbers are eliminated from the set with a higher number of repetitions.
 
 12. The first program is a simple one which basically checks all numbers on the screen to determine which is a part of the mandelbrot set and then colours it black. The ones which are not a part are coloured blue.  
-![](https://github.com/Divy1211/Mandelbrot/blob/master/mandelbrot_set_render/Mandelbrot_set.bmp)
+![](https://github.com/Divy1211/Mandelbrot/blob/master/mandelbrot_set_render/my.png)
 
 13. The second program is a bit more *complex*. for every time you click, it increases the number of times we square every number which makes the image finer and finer. Each new repetition eliminates new numbers in the set which are coloured differently
 ![](https://github.com/Divy1211/Mandelbrot/blob/master/mandelbrot_set_render_2/example.gif)
