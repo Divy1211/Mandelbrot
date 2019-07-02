@@ -35,6 +35,4 @@ void draw() {
     point(x,y);
   }
   y++;
-  //if(y > height)
-  //  save("Mandelbrot_set.bmp");
 }
