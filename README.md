@@ -34,4 +34,6 @@
 ![](https://github.com/Divy1211/Mandelbrot/blob/master/mandelbrot_set_render/my.png)
 
 13. The second program is a bit more *complex*. for every time you click, it increases the number of times we square every number which makes the image finer and finer. Each new repetition eliminates new numbers in the set which are coloured differently.  
-![](https://github.com/Divy1211/Mandelbrot/blob/master/mandelbrot_set_render_2/example.gif)
+![](https://github.com/Divy1211/Mandelbrot/blob/master/mandelbrot_set_render_2/example.gif)  
+
+14. The colouring pattern for the first program is similar to the second program, you can see that if you overlapped the images, the portions with different shades of red match up with the different layers of the second image meaning that the only difference between them is that each new repetition is colored entirely with a new color in the second program but with a brighter shade of red in the first program.
